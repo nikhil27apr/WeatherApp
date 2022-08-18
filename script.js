@@ -40,4 +40,4 @@ document.querySelector(".search-bar").addEventListener("keydown", function (even
     }
 });
 
-weather.fetchWeather("Denver"); 
+weather.fetchWeather("Saharanpur"); 
